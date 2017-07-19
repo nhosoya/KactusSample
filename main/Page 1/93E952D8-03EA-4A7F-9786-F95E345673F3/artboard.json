@@ -1,0 +1,88 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "93E952D8-03EA-4A7F-9786-F95E345673F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 960,
+    "y": 105
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4587F0C1-F036-4544-96FE-862E3683E98D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7856FAA1-9082-47A5-8109-8FB1615B4CD9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4C896DA-4F9A-46E2-A646-3943E8115ED4"
+    },
+    {
+      "class": "group",
+      "id": "6FA5EB3F-B970-4525-8204-FE82732CD2CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B58AFCAA-DC5D-48C4-85DA-C7D2F5C6E3AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED5E1E36-0420-4D22-988E-6990D3D6B71D"
+    }
+  ],
+  "name": "iPhone 7",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

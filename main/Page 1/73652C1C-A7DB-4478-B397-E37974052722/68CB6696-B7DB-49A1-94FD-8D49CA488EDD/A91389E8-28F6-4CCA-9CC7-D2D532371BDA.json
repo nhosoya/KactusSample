@@ -1,10 +1,14 @@
 {
   "_class": "star",
+  "booleanOperation": -1,
   "do_objectID": "A91389E8-28F6-4CCA-9CC7-D2D532371BDA",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -23,14 +27,11 @@
   "layerListExpandedType": 0,
   "name": "Path",
   "nameIsFixed": false,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "booleanOperation": -1,
-  "edited": false,
+  "numberOfPoints": 5,
   "path": {
     "_class": "path",
     "isClosed": true,
+    "pointRadiusBehaviour": 0,
     "points": [
       {
         "_class": "curvePoint",
@@ -134,6 +135,9 @@
       }
     ]
   },
-  "numberOfPoints": 5,
-  "radius": 0.5
+  "radius": 0.5,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
 }
